@@ -32,7 +32,7 @@ This is a web application that recommends movies based on the user's preferred g
 ## Live Demo 🌐
 
 [View the Live Application](#)  
-(Replace `#` with your deployment URL)
+https://asr-01.github.io/movie-recom/
 
 ---
 
